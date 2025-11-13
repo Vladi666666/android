@@ -8,9 +8,16 @@
 
 ## Скриншоты
 
+Главный экран:
 
 ![Главный экран](screenshots/main_screen.jpg)
+
+Поиск:
+
 ![Поиск](screenshots/search_dialog.jpg) 
+
+Загрузка данных:
+
 ![Загрузка данных](screenshots/loading_api.jpg) 
 
 > Скриншоты сделаны на Android 14 (эмулятор + реальное устройство)
